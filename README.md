@@ -31,7 +31,7 @@
 
 对于普通用户，您无需关心源代码，可以直接下载打包好的程序。
 
-1.  前往本项目的 [**Releases**](https://github.com/your-username/your-repository-name/releases) 页面。 
+1.  前往本项目的 [**Releases**](https://github.com/kpengcakj/BlinkMaster/releases) 页面。 
 2.  双击 `BlinkMaster.exe` 即可运行！
 
 ### 如何使用 (Usage)

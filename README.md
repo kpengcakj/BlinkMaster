@@ -14,7 +14,7 @@
 
 *(建议您在此处替换为您程序的截图)*
 
-![Blink Master 应用程序截图](https://i.imgur.com/your-screenshot-name.png) 
+![Blink Master 应用程序截图](your-screenshot-name.png) 
 ### 背景 (The "Why")
 
 科学研究表明，当人们专注于电脑屏幕时，眨眼频率会从正常的每分钟15-20次显著下降到4-7次。眨眼次数的减少导致泪液蒸发过快，从而引发眼睛干涩、疲劳、视力模糊等一系列“计算机视觉综合症”。
